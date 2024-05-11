@@ -1,0 +1,15 @@
+C:\nArchitectureDemo\src\corePackages\Zk-Stark\Zk-Stark\obj\Debug\net6.0\Zk-Stark.csproj.AssemblyReference.cache
+C:\nArchitectureDemo\src\corePackages\Zk-Stark\Zk-Stark\obj\Debug\net6.0\Zk-Stark.GeneratedMSBuildEditorConfig.editorconfig
+C:\nArchitectureDemo\src\corePackages\Zk-Stark\Zk-Stark\obj\Debug\net6.0\Zk-Stark.AssemblyInfoInputs.cache
+C:\nArchitectureDemo\src\corePackages\Zk-Stark\Zk-Stark\obj\Debug\net6.0\Zk-Stark.AssemblyInfo.cs
+C:\nArchitectureDemo\src\corePackages\Zk-Stark\Zk-Stark\obj\Debug\net6.0\Zk-Stark.csproj.CoreCompileInputs.cache
+C:\nArchitectureDemo\src\corePackages\Zk-Stark\Zk-Stark\bin\Debug\net6.0\Zk-Stark.exe
+C:\nArchitectureDemo\src\corePackages\Zk-Stark\Zk-Stark\bin\Debug\net6.0\Zk-Stark.deps.json
+C:\nArchitectureDemo\src\corePackages\Zk-Stark\Zk-Stark\bin\Debug\net6.0\Zk-Stark.runtimeconfig.json
+C:\nArchitectureDemo\src\corePackages\Zk-Stark\Zk-Stark\bin\Debug\net6.0\Zk-Stark.dll
+C:\nArchitectureDemo\src\corePackages\Zk-Stark\Zk-Stark\bin\Debug\net6.0\Zk-Stark.pdb
+C:\nArchitectureDemo\src\corePackages\Zk-Stark\Zk-Stark\obj\Debug\net6.0\Zk-Stark.dll
+C:\nArchitectureDemo\src\corePackages\Zk-Stark\Zk-Stark\obj\Debug\net6.0\refint\Zk-Stark.dll
+C:\nArchitectureDemo\src\corePackages\Zk-Stark\Zk-Stark\obj\Debug\net6.0\Zk-Stark.pdb
+C:\nArchitectureDemo\src\corePackages\Zk-Stark\Zk-Stark\obj\Debug\net6.0\Zk-Stark.genruntimeconfig.cache
+C:\nArchitectureDemo\src\corePackages\Zk-Stark\Zk-Stark\obj\Debug\net6.0\ref\Zk-Stark.dll
